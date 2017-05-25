@@ -1,7 +1,7 @@
 ### 开发安卓插件
 
 
-####IntelliJ Plugin开发
+#### IntelliJ Plugin开发
 官方文档 
 
 * [插件开发帮助文档](https://www.jetbrains.com/help/idea/2016.3/plugin-development-guidelines.html#d1348165e8)
